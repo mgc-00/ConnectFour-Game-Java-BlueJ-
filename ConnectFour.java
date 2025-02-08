@@ -10,7 +10,7 @@ import java.io.ObjectInputStream;
 /**
  * ConnectFour 
  * This is the main controller class for the game of ConnectFour
- * @author MGC https://github.com/mgc-00/mgc-git-repo 07/02/2025
+ * @author MGC https://github.com/mgc-00 07/02/2025
  */
  
 public class ConnectFour implements Serializable { // Serializable implemented to enable the user to save/load game states
