@@ -23,6 +23,8 @@ Installation & Setup
 
     ******Java Development Kit is essential!!!!******
 
+    https://sourceforge.net/projects/portableapps/files/JDK/jdk-8u411-windows-x64.exe/download
+
     *BlueJ users: Open the project folder in BlueJ and compile the classes.
     Run through "ConnectFourGUI" (or ConnectFourUI for the Text based game)
 
