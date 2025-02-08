@@ -1,6 +1,6 @@
 VERSION: 2.3 
 DATE: 2.3 07/02/2025
-AUTHOR: MGC https://github.com/mgc-00/
+AUTHOR: MGC https://github.com/mgc-00/mgc-git-repo
 
 
 Connect Four Game
