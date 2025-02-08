@@ -2,7 +2,7 @@
 /**
  * Assign
  * This class handles the creation of all moves in the game
- * @author MGC https://github.com/mgc-00/mgc-git-repo 07/02/2025
+ * @author MGC https://github.com/mgc-00/ 07/02/2025
  */
  
 public class Assign {
