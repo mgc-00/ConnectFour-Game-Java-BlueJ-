@@ -5,7 +5,7 @@ import java.util.Observable;
 /**
  * Slot
  * This class handles the state of each slot in the game. Extending observable in preparation for the addition of a GUI.
- * @author MGC https://github.com/mgc-00/mgc-git-repo 07/02/2025
+ * @author MGC https://github.com/mgc-00/ 07/02/2025
 */ 
 
 public class Slot extends Observable implements Serializable {
